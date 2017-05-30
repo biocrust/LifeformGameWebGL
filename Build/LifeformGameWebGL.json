@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "LifeformGameWebGL.data.unityweb",
+"asmCodeUrl": "LifeformGameWebGL.asm.code.unityweb",
+"asmMemoryUrl": "LifeformGameWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "LifeformGameWebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
