@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "AlienGameWebGL.data.unityweb",
+"asmCodeUrl": "AlienGameWebGL.asm.code.unityweb",
+"asmMemoryUrl": "AlienGameWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "AlienGameWebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
